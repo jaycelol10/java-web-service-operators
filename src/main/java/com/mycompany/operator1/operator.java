@@ -7,7 +7,7 @@ package com.mycompany.operator1;
 
 /**
  *
- * @author kokye
+ * @author Saif 
  */
 public class operator {
 
