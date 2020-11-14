@@ -14,18 +14,12 @@ public class operator {
     /**
      * @param args the command line arguments
      */
-    public int sum(int a, int b)
-    {
-        return a+b;
-    }
+
     public int multiply(int a, int b)
     {
         return a*b;
     }
-    public int sub(int a, int b)
-    {
-        return a-b;
-    }
+   
     public int divide(int a, int b)
     {
         return a/b;
